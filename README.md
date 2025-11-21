@@ -1,2 +1,2 @@
 # pib
-pib example scripts
+pib example scripts and libraries
