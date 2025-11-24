@@ -1,0 +1,13 @@
+command,code
+hello,1
+exit,0
+goodbye,0
+how are you,2
+who are you,3
+switch to text mode,5
+switch to talk mode,6
+change to writing mode, 5
+change to audio mode, 6
+hey my friend,1
+greetings,1
+let me ask ai,7

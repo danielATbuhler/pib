@@ -1,0 +1,42 @@
+command,code
+hello,1
+exit,0
+goodbye,0
+how are you,2
+who are you,3
+switch to text mode,5
+switch to talk mode,6
+change to writing mode,5
+change to audio mode,6
+hey my friend,1
+greetings,1
+let me ask ai,7
+bye,0
+you should have said goodbye,0
+Weather,8
+how is the weather in the city london,8
+how is the weather,8
+hey pib,1
+you should have said hello back,1
+can you ask the ai who,7
+Bühler,9
+Buhler,9
+Buhlergroup,9
+Buhler Group,9
+does buhler like cheese,9
+"cool, goodbye!",0
+ask ai who donald trump is,7
+recognize faces,10
+who do you see,10
+tell me something about buhler,9
+can you ask ai what year michal jordan started playing?,7
+okey,11
+thanks,11
+thank you,11
+alright,11
+good job,11
+cool,11
+can you save my face,12
+yes!,11
+have a good day!,0
+save her name as sharon,12
