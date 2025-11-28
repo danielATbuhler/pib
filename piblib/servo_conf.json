@@ -1,0 +1,327 @@
+{
+   "bricklet_ids": {
+      "bricklet_1": "2b7m",
+      "bricklet_2": "2b7W",
+      "bricklet_3": "2b83"
+   },
+  "servo_configurations": {
+    "right_hand": {
+      "thumb_right_opposition": {
+         "bricklet": 1,
+         "pin": 0,
+         "invert": false,
+         "deg_min": -90000,
+         "deg_max": 90000,
+         "pw_min": 530,
+         "pw_max": 2470,
+         "velocity": 400000,
+         "acceleration": 400000,
+         "deceleration": 400000
+       },
+      "thumb_right_stretch": {
+         "bricklet": 1,
+         "pin": 1,
+         "invert": false,
+         "deg_min": -90000,
+         "deg_max": 90000,
+         "pw_min": 530,
+         "pw_max": 2470,
+         "velocity": 400000,
+         "acceleration": 400000,
+         "deceleration": 400000
+       },
+      "index_right_stretch": {
+         "bricklet": 1,
+         "pin": 2,
+         "invert": true,
+         "deg_min": -90000,
+         "deg_max": 90000,
+         "pw_min": 530,
+         "pw_max": 2470,
+         "velocity": 400000,
+         "acceleration": 400000,
+         "deceleration": 400000
+       },
+      "middle_right_stretch": {
+         "bricklet": 1,
+         "pin": 3,
+         "invert": false,
+         "deg_min": -90000,
+         "deg_max": 90000,
+         "pw_min": 530,
+         "pw_max": 2470,
+         "velocity": 400000,
+         "acceleration": 400000,
+         "deceleration": 400000
+       },
+      "ring_right_stretch": {
+         "bricklet": 1,
+         "pin": 4,
+         "invert": true,
+         "deg_min": -90000,
+         "deg_max": 90000,
+         "pw_min": 530,
+         "pw_max": 2470,
+         "velocity": 400000,
+         "acceleration": 400000,
+         "deceleration": 400000
+       },
+      "pinky_right_stretch": {
+         "bricklet": 1,
+         "pin": 5,
+         "invert": true,
+         "deg_min": -90000,
+         "deg_max": 90000,
+         "pw_min": 530,
+         "pw_max": 2470,
+         "velocity": 400000,
+         "acceleration": 400000,
+         "deceleration": 400000
+       },
+      "wrist_right": {
+         "bricklet": 1,
+         "pin": 6,
+         "invert": false,
+         "deg_min": -90000,
+         "deg_max": 90000,
+         "pw_min": 530,
+         "pw_max": 2470,
+         "velocity": 100000,
+         "acceleration": 100000,
+         "deceleration": 100000
+       },
+      "lower_arm_right_rotation": {
+         "bricklet": 1,
+         "pin": 7,
+         "invert": false,
+         "deg_min": -90000,
+         "deg_max": 90000,
+         "pw_min": 530,
+         "pw_max": 2470,
+         "velocity": 50000,
+         "acceleration": 30000,
+         "deceleration": 30000
+       },
+      "elbow_right": {
+         "bricklet": 1,
+         "pin": 8,
+         "invert": false,
+         "deg_min": -90000,
+         "deg_max": 90000,
+         "pw_min": 1200,
+         "pw_max": 2470,
+         "velocity": 15000,
+         "acceleration": 20000,
+         "deceleration": 20000
+       },
+      "upper_arm_right_rotation": {
+         "bricklet": 1,
+         "pin": 9,
+         "invert": false,
+         "deg_min": -90000,
+         "deg_max": 90000,
+         "pw_min": 600,
+         "pw_max": 2470,
+         "velocity": 12000,
+         "acceleration": 50000,
+         "deceleration": 50000
+       }
+     },
+    "head_shoulder": {
+      "shoulder_horizontal_left": {
+        "bricklet": 2,
+        "pin": 0,
+        "invert": false,
+        "deg_min": -90000,
+        "deg_max": 90000,
+        "pw_min": 530,
+        "pw_max": 2470,
+        "velocity": 5000,
+        "acceleration": 3000,
+        "deceleration": 3000
+       },
+      "shoulder_vertical_left": {
+         "bricklet": 2,
+         "pin": 1,
+         "invert": false,
+         "deg_min": -90000,
+         "deg_max": 90000,
+         "pw_min": 530,
+         "pw_max": 2470,
+         "velocity": 8000,
+         "acceleration": 4000,
+         "deceleration": 4000
+       },
+      "turn_head_motor": {
+         "bricklet": 2,
+         "pin": 4,
+         "invert": false,
+         "deg_min": -90000,
+         "deg_max": 90000,
+         "pw_min": 530,
+         "pw_max": 2470,
+         "velocity": 10000,
+         "acceleration": 10000,
+         "deceleration": 10000
+       },
+      "tilt_forward_motor": {
+         "bricklet": 2,
+         "pin": 5,
+         "invert": false,
+         "deg_min": -90000,
+         "deg_max": 90000,
+         "pw_min": 1250,
+         "pw_max": 1850,
+         "velocity": 10000,
+         "acceleration": 6000,
+         "deceleration": 6000
+      },
+      "shoulder_horizontal_right": {
+         "bricklet": 2,
+         "pin": 8,
+         "invert": false,
+         "deg_min": -90000,
+         "deg_max": 90000,
+         "pw_min": 530,
+         "pw_max": 2470,
+         "velocity": 5000,
+         "acceleration": 3000,
+         "deceleration": 3000
+      },
+      "shoulder_vertical_right": {
+         "bricklet": 2,
+         "pin": 9,
+         "invert": false,
+         "deg_min": -90000,
+         "deg_max": 90000,
+         "pw_min": 530,
+         "pw_max": 2470,
+         "velocity": 8000,
+         "acceleration": 4000,
+         "deceleration": 4000
+       }
+    },
+    "left_hand": {
+      "thumb_left_opposition": {
+        "bricklet": 3,
+        "pin": 0,
+        "invert": false,
+        "deg_min": -90000,
+        "deg_max": 90000,
+        "pw_min": 1300,
+        "pw_max": 2470,
+        "velocity": 400000,
+        "acceleration": 400000,
+        "deceleration": 400000
+       },
+      "thumb_left_stretch": {
+         "bricklet": 3,
+         "pin": 1,
+         "invert": false,
+         "deg_min": -90000,
+         "deg_max": 90000,
+         "pw_min": 530,
+         "pw_max": 2470,
+         "velocity": 400000,
+         "acceleration": 400000,
+         "deceleration": 400000
+       },
+      "index_left_stretch": {
+         "bricklet": 3,
+         "pin": 2,
+         "invert": true,
+         "deg_min": -90000,
+         "deg_max": 90000,
+         "pw_min": 530,
+         "pw_max": 2470,
+         "velocity": 400000,
+         "acceleration": 400000,
+         "deceleration": 400000
+       },
+      "middle_left_stretch": {
+         "bricklet": 3,
+         "pin": 3,
+         "invert": false,
+         "deg_min": -90000,
+         "deg_max": 90000,
+         "pw_min": 530,
+         "pw_max": 2470,
+         "velocity": 400000,
+         "acceleration": 400000,
+         "deceleration": 400000
+       },
+      "ring_left_stretch": {
+         "bricklet": 3,
+         "pin": 4,
+         "invert": true,
+         "deg_min": -90000,
+         "deg_max": 90000,
+         "pw_min": 530,
+         "pw_max": 2470,
+         "velocity": 400000,
+         "acceleration": 400000,
+         "deceleration": 400000
+       },
+      "pinky_left_stretch": {
+         "bricklet": 3,
+         "pin": 5,
+         "invert": true,
+         "deg_min": -90000,
+         "deg_max": 90000,
+         "pw_min": 530,
+         "pw_max": 2470,
+         "velocity": 400000,
+         "acceleration": 400000,
+         "deceleration": 400000
+       },
+      "wrist_left": {
+         "bricklet": 3,
+         "pin": 6,
+         "invert": false,
+         "deg_min": -90000,
+         "deg_max": 90000,
+         "pw_min": 530,
+         "pw_max": 2470,
+         "velocity": 100000,
+         "acceleration": 100000,
+         "deceleration": 100000
+       },
+      "lower_arm_left_rotation": {
+         "bricklet": 3,
+         "pin": 7,
+         "invert": false,
+         "deg_min": -90000,
+         "deg_max": 90000,
+         "pw_min": 530,
+         "pw_max": 2470,
+         "velocity": 50000,
+         "acceleration": 30000,
+         "deceleration": 30000
+       },
+      "elbow_left": {
+         "bricklet": 3,
+         "pin": 8,
+         "invert": false,
+         "deg_min": -90000,
+         "deg_max": 90000,
+         "pw_min": 1200,
+         "pw_max": 2470,
+         "velocity": 15000,
+         "acceleration": 20000,
+         "deceleration": 20000
+       },
+      "upper_arm_left_rotation": {
+         "bricklet": 3,
+         "pin": 9,
+         "invert": false,
+         "deg_min": -90000,
+         "deg_max": 90000,
+         "pw_min": 600,
+         "pw_max": 2470,
+         "velocity": 12000,
+         "acceleration": 50000,
+         "deceleration": 50000
+       }
+    }
+  }
+}
