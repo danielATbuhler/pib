@@ -1,7 +1,0 @@
-command,response,code
-hello,Hello! How can I help you?,1
-how are you,I'm doing well,2
-who are you,I am your voice assistant.,3
-stop,Goodbye!,0
-exit,Goodbye!,0
-quit,Goodbye!,0
